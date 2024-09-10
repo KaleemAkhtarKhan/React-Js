@@ -2,7 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 function App() {
- let fooditems = ["Dal", " >Green Vegitable",  "A third item", "ROTI"];
+ let fooditems = ["Dal", " Green Vegitable",  "A third item", "ROTI"];
 
   return (
       <>
